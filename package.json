@@ -1,6 +1,6 @@
 {
   "name": "cnb",
-  "version": "0.0.1-develop.0",
+  "version": "0.0.1-develop.1",
   "description": "Library for converting props into className-attributes",
   "files": [
     "dist",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptahv/roids.git"
+    "url": "git+https://github.com/ptahv/cnb.git"
   },
   "keywords": [
     "react",
