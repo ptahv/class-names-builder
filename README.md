@@ -1,3 +1,3 @@
-# cnb (Class names builder)
+# Class names builder
 
 Library for converting props into className-attributes.

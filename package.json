@@ -1,19 +1,19 @@
 {
-  "name": "cnb",
-  "version": "0.0.1-develop.1",
+  "name": "class-names-builder",
+  "version": "0.0.2-develop.0",
   "description": "Library for converting props into className-attributes",
   "files": [
     "dist",
     "src"
   ],
-  "main": "dist/cnb.min.js",
+  "main": "dist/class-names-builder.min.js",
   "scripts": {
     "build": "rollup -c",
     "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptahv/cnb.git"
+    "url": "git+https://github.com/ptahv/class-names-builder.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "Petri Tahvanainen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ptahv/cnb/issues"
+    "url": "https://github.com/ptahv/class-names-builder/issues"
   },
-  "homepage": "https://github.com/ptahv/cnb#readme",
+  "homepage": "https://github.com/ptahv/class-names-builder#readme",
   "dependencies": {
     "@babel/polyfill": "^7.0.0"
   },

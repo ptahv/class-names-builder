@@ -19,9 +19,9 @@ const plugins = [
 export default [{
     input: 'src/index.js',
     output: {
-        file: 'dist/cnb.js',
+        file: 'dist/class-names-builder.js',
         format: 'umd',
-        name: 'cnb',
+        name: 'class-names-builder',
         indent: false
     },
     plugins: plugins.concat([
@@ -32,9 +32,9 @@ export default [{
 }, {
     input: 'src/index.js',
     output: {
-        file: 'dist/cnb.min.js',
+        file: 'dist/class-names-builder.min.js',
         format: 'umd',
-        name: 'cnb',
+        name: 'class-names-builder',
         indent: false
     },
     plugins: plugins.concat([
